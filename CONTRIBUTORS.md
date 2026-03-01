@@ -8,7 +8,7 @@ This project is made possible by the dedicated individuals who believe in a shar
 *   Junyi Pang
 *   Ke Zhang
 *   Nongshen Zhou
-*   Pili Hu
+*   [Pili Hu](https://hupili.net)
 *   Sheng Qian
 *   Songlu Wang
 *   Wei Chen
