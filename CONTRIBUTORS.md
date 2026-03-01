@@ -10,7 +10,7 @@ Below is the list of first batch contributors in alphabetical order.
 
 *   Boyu Wang
 *   Chuanhao Liu
-*   Junyi Pang
+*   [Junyi Pang](https://github.com/HuaaJi)
 *   Ke Zhang
 *   Nongshen Zhou
 *   [Pili Hu](https://hupili.net)
