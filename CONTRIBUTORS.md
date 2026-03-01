@@ -3,6 +3,11 @@
 This project is made possible by the dedicated individuals who believe in a shared language for the global trail running community.
 
 ## Initial Contributors
+
+The initial contribution is made possible from the first-ever ITRA website translation from English to Chinese project.
+
+Below is the list of first batch contributors in alphabetical order.
+
 *   Boyu Wang
 *   Chuanhao Liu
 *   Junyi Pang
