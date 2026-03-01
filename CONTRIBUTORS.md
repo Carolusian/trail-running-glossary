@@ -17,7 +17,7 @@ Below is the list of first batch contributors in alphabetical order.
 *   [Pili Hu](https://hupili.net)
 *   Sheng Qian
 *   Songlu Wang
-*   Wei Chen
+*   [Wei Chen](https://itra.run/api/RunnerSpace/GetRunnerSpace?memberString=HsXE%2FPr4hcA7C4YpXDKncA%3D%3D)
 *   Xinhao Zhang
 *   Xu Liu
 *   Yao Song
