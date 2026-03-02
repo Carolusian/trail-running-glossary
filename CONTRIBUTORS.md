@@ -18,7 +18,7 @@ Below is the list of first batch contributors in alphabetical order.
 *   [Sheng Qian](https://www.strava.com/athletes/155403517)
 *   Songlu Wang
 *   [Wei Chen](https://itra.run/api/RunnerSpace/GetRunnerSpace?memberString=HsXE%2FPr4hcA7C4YpXDKncA%3D%3D)
-*   Xinhao Zhang
+*   [Xinhao Zhang](https://www.strava.com/athletes/112126570)
 *   [Xu Liu](https://strava.app.link/R3dD5KEIa1b)
 *   [Yao Song](https://strava.app.link/oJCUA9Pi90b)
 
