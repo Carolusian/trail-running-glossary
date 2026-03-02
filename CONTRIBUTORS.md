@@ -10,7 +10,7 @@ Below is the list of first batch contributors in alphabetical order.
 
 *   Boyu Wang
 *   Charlie Chen
-*   Chuanhao Liu
+*   [Chuanhao Liu](https://www.strava.com/athletes/21252268)
 *   [Junyi Pang](https://github.com/HuaaJi)
 *   Ke Zhang
 *   Nongshen Zhou
