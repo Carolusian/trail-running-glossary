@@ -15,7 +15,7 @@ Below is the list of first batch contributors in alphabetical order.
 *   Ke Zhang
 *   Nongshen Zhou
 *   [Pili Hu](https://hupili.net)
-*   Sheng Qian
+*   [Sheng Qian](https://www.strava.com/athletes/155403517)
 *   Songlu Wang
 *   Wei Chen
 *   Xinhao Zhang
