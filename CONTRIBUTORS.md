@@ -9,7 +9,7 @@ The initial contribution is made possible from the first-ever ITRA website trans
 Below is the list of first batch contributors in alphabetical order.
 
 *   Boyu Wang
-*   Charlie Chen
+*   [Charlie Chen](https://github.com/Carolusian)
 *   Chuanhao Liu
 *   [Junyi Pang](https://github.com/HuaaJi)
 *   Ke Zhang
